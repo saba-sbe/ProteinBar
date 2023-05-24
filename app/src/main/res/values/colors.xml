@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f1a9a0</color>
+    <color name="colorPrimaryDark">#e26a6a</color>
+    <color name="colorAccent">#f62459</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="buttonHighlite">#B2DFDB</color>
+    <color name="buttoncolor">#db0a5b</color>
+    <color name="cardbackground">#eeeeee</color>
+    <color name="greenlight">#2ECC71</color>
+    <color name="greendark">#26A65B</color>
+    <color name="red">#f22613</color>
+    <color name="grey">#bfbfbf</color>
+</resources>
